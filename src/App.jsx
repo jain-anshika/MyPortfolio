@@ -27,12 +27,12 @@ const siteProps = {
   name: "Anshika Jain",
   title: "CSE Student",
   email: "anshikajain1114@gmail.com",
-  gitHub: "https://github.com/jain-anshika",
-  instagram: "www.instagram.com/jain_anshika__",
-  linkedIn: "https://www.linkedin.com/in/anshika-jain-85a638255/",
+  gitHub: "jain-anshika",
+  instagram: "jain_anshika__",
+  linkedIn: "anshika-jain-85a638255/",
   medium: "",
   twitter: "",
-  youTube: "https://www.youtube.com/@jain-anshika",
+  youTube: "UCMAuMEu0d8Nae-cVKyHgNtQ",
 };
 
 const primaryColor = "#4E567E";
