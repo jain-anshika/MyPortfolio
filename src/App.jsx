@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Anshika Jain",
-  title: "Btech. CSE student - 2nd year",
+  title: "CSE Student",
   email: "anshikajain1114@gmail.com",
   gitHub: "https://github.com/jain-anshika",
   instagram: "www.instagram.com/jain_anshika__",
